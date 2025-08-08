@@ -1,3 +1,5 @@
+<h1>NOTE: this is the Link for the Cuber fan campain! Please use LittleLink it's awesome! and thanks so much to LittleLink!</h1>
+
 ![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
 
 # LittleLink
